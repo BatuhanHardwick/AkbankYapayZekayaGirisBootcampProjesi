@@ -86,11 +86,4 @@ A*: Keçiören -> Gar -> Demetevler -> Kızılay -> AŞTİ (22 dk)
 
 1. **Gerçek harita entegrasyonu:** İstasyon koordinatlarını ekleyerek, A* algoritması için **coğrafi mesafe bazlı bir sezgisel fonksiyon** kullanılabilir.  
 2. **Dinamik trafik durumu:** Seyahat süreleri **yoğun saatlerde** değişken hale getirilebilir.  
-3. **GUI (Grafik Arayüz) eklenmesi:** Kullanıcıların metro haritası üzerinde **tıklayarak** güzergah belirleyebileceği bir arayüz tasarlanabilir.  
-4. **JSON/XML formatında veri okuma:** Metro istasyonları ve bağlantılar **harici bir dosyadan** okunarak yönetilebilir hale getirilebilir.  
-5. **Hat bazlı ağırlıklandırma:** Hatlar arasında **geçiş süresi ve ek maliyetler** hesaba katılabilir.  
-
-
-Eğer projeyi beğendiyseniz ⭐ vererek destek olabilirsiniz!  
-
-GitHub profilimde daha fazla projeye göz atabilirsiniz: [GitHub Profilim](https://github.com/)  
+3. **GUI (Grafik Arayüz) eklenmesi:** Kullanıcıların metro haritası üzerinde **tıklayarak** güzergah belirleyebileceği bir arayüz tasarlanabilir.
