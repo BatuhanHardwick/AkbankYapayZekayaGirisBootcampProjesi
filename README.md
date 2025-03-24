@@ -1,4 +1,4 @@
-# 🚇 Metro Ağı Rota Bulma Algoritmaları  
+# 🚇 Metro Ağı Rota Bulma Projesi  
 
 Bu proje Akbank ve Yapay Zekaya Giriş bootcamp'i için hazırlanmıştır, Bu projede bir metro ağı üzerinde **en az aktarmalı** ve **en hızlı** rotaları hesaplamak için **BFS, Dijkstra ve A*** algoritmalarını kullanmaktadır. Python dili ile geliştirilen proje, metro istasyonları arasındaki bağlantıları modelleyerek en uygun güzergahları belirlemeyi amaçlar.  
 
